@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealmCrud</string>
+
+    <array name="courses">
+        <item>Software Engineering</item>
+        <item>Computer Science</item>
+        <item>Business Management</item>
+    </array>
+</resources>
