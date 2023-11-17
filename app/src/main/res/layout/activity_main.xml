@@ -53,6 +53,7 @@
         android:layout_height="match_parent"
         android:layout_below="@id/linBtns"
         android:layout_marginTop="10dp"
+        android:text="No Data Available"
         android:textSize="25sp"
         android:padding="8dp"/>
 
